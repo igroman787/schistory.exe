@@ -1,0 +1,11 @@
+c:\users\igroman787\documents\visual studio 2013\Projects\schistory\schistory\bin\Debug\schistory.exe.config
+c:\users\igroman787\documents\visual studio 2013\Projects\schistory\schistory\bin\Debug\schistory.exe
+c:\users\igroman787\documents\visual studio 2013\Projects\schistory\schistory\bin\Debug\schistory.pdb
+c:\users\igroman787\documents\visual studio 2013\Projects\schistory\schistory\obj\Debug\schistory.csprojResolveAssemblyReference.cache
+c:\users\igroman787\documents\visual studio 2013\Projects\schistory\schistory\obj\Debug\schistory.Properties.Resources.resources
+c:\users\igroman787\documents\visual studio 2013\Projects\schistory\schistory\obj\Debug\schistory.csproj.GenerateResource.Cache
+c:\users\igroman787\documents\visual studio 2013\Projects\schistory\schistory\obj\Debug\schistory.exe
+c:\users\igroman787\documents\visual studio 2013\Projects\schistory\schistory\obj\Debug\schistory.pdb
+C:\Users\Igroman787\documents\visual studio 2013\Projects\schistory\schistory\obj\Debug\schistory.Form1.resources
+C:\Users\Igroman787\documents\visual studio 2013\Projects\schistory\schistory\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\Igroman787\documents\visual studio 2013\Projects\schistory\schistory\obj\Debug\schistory.csproj.ResolveComReference.cache
